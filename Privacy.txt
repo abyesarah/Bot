@@ -1,0 +1,1 @@
+This is Tel-Eshtaol Bot appllication. As soon as users start chatting with the server,it gets their Facebook public information.
